@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\SumOf3numbers\bin\Debug\SumOf3numbers.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\SumOf3numbers\bin\Debug\SumOf3numbers.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\SumOf3numbers\bin\Debug\SumOf3numbers.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\SumOf3numbers\obj\Debug\SumOf3numbers.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\SumOf3numbers\obj\Debug\SumOf3numbers.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\SumOf3numbers\obj\Debug\SumOf3numbers.pdb

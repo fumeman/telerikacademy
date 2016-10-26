@@ -1,0 +1,5 @@
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\BooleanVariable\bin\Debug\BooleanVariable.exe
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\BooleanVariable\bin\Debug\BooleanVariable.pdb
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\BooleanVariable\obj\Debug\BooleanVariable.exe
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\BooleanVariable\obj\Debug\BooleanVariable.pdb

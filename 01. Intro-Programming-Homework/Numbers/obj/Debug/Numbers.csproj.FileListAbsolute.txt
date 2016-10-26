@@ -1,0 +1,5 @@
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Numbers\bin\Debug\Numbers.exe.config
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Numbers\bin\Debug\Numbers.exe
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Numbers\bin\Debug\Numbers.pdb
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Numbers\obj\Debug\Numbers.exe
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Numbers\obj\Debug\Numbers.pdb

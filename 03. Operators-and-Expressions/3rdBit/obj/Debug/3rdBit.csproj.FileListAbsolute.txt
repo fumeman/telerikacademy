@@ -1,0 +1,5 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\3rdBit\bin\Debug\3rdBit.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\3rdBit\bin\Debug\3rdBit.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\3rdBit\bin\Debug\3rdBit.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\3rdBit\obj\Debug\3rdBit.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\3rdBit\obj\Debug\3rdBit.pdb

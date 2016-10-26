@@ -1,0 +1,5 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\Rectangles\obj\Debug\Rectangles.pdb

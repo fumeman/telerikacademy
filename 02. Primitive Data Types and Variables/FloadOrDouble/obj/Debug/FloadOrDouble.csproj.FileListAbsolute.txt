@@ -1,0 +1,8 @@
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\FloadOrDouble\bin\Debug\FloadOrDouble.exe.config
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\FloadOrDouble\bin\Debug\FloadOrDouble.exe
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\FloadOrDouble\bin\Debug\FloadOrDouble.pdb
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\FloadOrDouble\obj\Debug\FloadOrDouble.exe
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\FloadOrDouble\obj\Debug\FloadOrDouble.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\FloadOrDouble\bin\Debug\FloadOrDouble.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\FloadOrDouble\obj\Debug\FloadOrDouble.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\FloadOrDouble\obj\Debug\FloadOrDouble.pdb

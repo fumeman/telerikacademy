@@ -1,0 +1,5 @@
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

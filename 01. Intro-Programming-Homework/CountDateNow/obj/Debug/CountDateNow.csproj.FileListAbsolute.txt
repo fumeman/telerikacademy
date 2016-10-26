@@ -1,0 +1,6 @@
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\CountDateNow\bin\Debug\CountDateNow.exe.config
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\CountDateNow\bin\Debug\CountDateNow.exe
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\CountDateNow\bin\Debug\CountDateNow.pdb
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\CountDateNow\obj\Debug\CountDateNow.exe
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\CountDateNow\obj\Debug\CountDateNow.pdb
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\CountDateNow\obj\Debug\CountDateNow.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\FourDigits\bin\Debug\FourDigits.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\FourDigits\bin\Debug\FourDigits.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\FourDigits\bin\Debug\FourDigits.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\FourDigits\obj\Debug\FourDigits.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\FourDigits\obj\Debug\FourDigits.pdb

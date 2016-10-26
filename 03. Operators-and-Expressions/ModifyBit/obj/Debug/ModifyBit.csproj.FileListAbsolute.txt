@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\ModifyBit\bin\Debug\ModifyBit.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\ModifyBit\obj\Debug\ModifyBit.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\ModifyBit\bin\Debug\ModifyBit.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\ModifyBit\bin\Debug\ModifyBit.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\ModifyBit\obj\Debug\ModifyBit.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\ModifyBit\obj\Debug\ModifyBit.pdb

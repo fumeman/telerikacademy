@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\BitExchange\bin\Debug\BitExchange.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\BitExchange\obj\Debug\BitExchange.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\BitExchange\bin\Debug\BitExchange.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\BitExchange\bin\Debug\BitExchange.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\BitExchange\obj\Debug\BitExchange.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\BitExchange\obj\Debug\BitExchange.pdb

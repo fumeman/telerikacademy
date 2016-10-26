@@ -1,0 +1,5 @@
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Sequences\bin\Debug\Sequences.exe.config
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Sequences\bin\Debug\Sequences.exe
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Sequences\bin\Debug\Sequences.pdb
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Sequences\obj\Debug\Sequences.exe
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Sequences\obj\Debug\Sequences.pdb

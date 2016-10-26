@@ -1,0 +1,8 @@
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.exe.config
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.exe
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.pdb
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.exe
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.pdb
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\1. Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.exe.config
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\1. Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.exe
+D:\Users\fumeman\Documents\Visual Studio 2015\Projects\1. Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.pdb

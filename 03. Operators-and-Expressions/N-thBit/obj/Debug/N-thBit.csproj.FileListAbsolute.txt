@@ -1,0 +1,5 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\N-thBit\bin\Debug\N-thBit.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\N-thBit\bin\Debug\N-thBit.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\N-thBit\bin\Debug\N-thBit.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\N-thBit\obj\Debug\N-thBit.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\N-thBit\obj\Debug\N-thBit.pdb
