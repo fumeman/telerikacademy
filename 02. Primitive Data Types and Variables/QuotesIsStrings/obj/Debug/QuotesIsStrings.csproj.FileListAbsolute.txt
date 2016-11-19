@@ -1,5 +1,0 @@
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\QuotesIsStrings\bin\Debug\QuotesIsStrings.exe.config
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\QuotesIsStrings\bin\Debug\QuotesIsStrings.exe
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\QuotesIsStrings\bin\Debug\QuotesIsStrings.pdb
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\QuotesIsStrings\obj\Debug\QuotesIsStrings.exe
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\QuotesIsStrings\obj\Debug\QuotesIsStrings.pdb

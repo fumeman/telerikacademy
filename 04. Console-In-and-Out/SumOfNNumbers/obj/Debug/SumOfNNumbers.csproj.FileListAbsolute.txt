@@ -1,5 +1,0 @@
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe.config
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\SumOfNNumbers\bin\Debug\SumOfNNumbers.pdb
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\SumOfNNumbers\obj\Debug\SumOfNNumbers.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\SumOfNNumbers\obj\Debug\SumOfNNumbers.pdb

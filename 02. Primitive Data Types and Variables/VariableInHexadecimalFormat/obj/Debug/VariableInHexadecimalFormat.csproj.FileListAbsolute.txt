@@ -1,5 +1,0 @@
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb

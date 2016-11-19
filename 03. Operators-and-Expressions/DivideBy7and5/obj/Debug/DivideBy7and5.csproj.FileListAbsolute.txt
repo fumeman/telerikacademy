@@ -1,5 +1,0 @@
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\DivideBy7and5\bin\Debug\DivideBy7and5.exe.config
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\DivideBy7and5\bin\Debug\DivideBy7and5.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\DivideBy7and5\bin\Debug\DivideBy7and5.pdb
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\DivideBy7and5\obj\Debug\DivideBy7and5.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\DivideBy7and5\obj\Debug\DivideBy7and5.pdb

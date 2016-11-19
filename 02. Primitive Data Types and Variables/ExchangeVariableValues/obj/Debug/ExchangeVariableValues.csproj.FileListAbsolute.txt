@@ -1,6 +1,0 @@
-C:\Users\emich\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
-C:\Users\emich\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
-C:\Users\emich\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
-C:\Users\emich\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.csprojResolveAssemblyReference.cache

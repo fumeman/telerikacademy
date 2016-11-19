@@ -1,6 +1,0 @@
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\PrimeCheck\bin\Debug\PrimeCheck.exe.config
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\PrimeCheck\bin\Debug\PrimeCheck.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\PrimeCheck\bin\Debug\PrimeCheck.pdb
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\PrimeCheck\obj\Debug\PrimeCheck.csprojResolveAssemblyReference.cache
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\PrimeCheck\obj\Debug\PrimeCheck.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\PrimeCheck\obj\Debug\PrimeCheck.pdb

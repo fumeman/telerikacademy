@@ -1,6 +1,0 @@
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\Trapezoids\bin\Debug\Trapezoids.exe.config
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\Trapezoids\obj\Debug\Trapezoids.csprojResolveAssemblyReference.cache
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\Trapezoids\bin\Debug\Trapezoids.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\Trapezoids\bin\Debug\Trapezoids.pdb
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\Trapezoids\obj\Debug\Trapezoids.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\Trapezoids\obj\Debug\Trapezoids.pdb

@@ -1,5 +1,0 @@
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\FirstLastName\bin\Debug\FirstLastName.exe.config
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\FirstLastName\bin\Debug\FirstLastName.exe
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\FirstLastName\bin\Debug\FirstLastName.pdb
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\FirstLastName\obj\Debug\FirstLastName.exe
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\FirstLastName\obj\Debug\FirstLastName.pdb

@@ -1,7 +1,0 @@
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\DeclareVariables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.exe
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.pdb
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.exe
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.pdb

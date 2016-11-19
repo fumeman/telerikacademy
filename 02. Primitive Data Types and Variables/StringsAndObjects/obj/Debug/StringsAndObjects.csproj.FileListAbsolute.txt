@@ -1,5 +1,0 @@
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\StringsAndObjects\bin\Debug\StringsAndObjects.exe
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\StringsAndObjects\obj\Debug\StringsAndObjects.exe
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\2. Primitive Data Types and Variables\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

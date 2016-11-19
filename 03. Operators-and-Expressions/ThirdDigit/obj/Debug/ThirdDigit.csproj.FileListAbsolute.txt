@@ -1,6 +1,0 @@
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\ThirdDigit\bin\Debug\ThirdDigit.exe.config
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\ThirdDigit\bin\Debug\ThirdDigit.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\ThirdDigit\bin\Debug\ThirdDigit.pdb
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\ThirdDigit\obj\Debug\ThirdDigit.csprojResolveAssemblyReference.cache
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\ThirdDigit\obj\Debug\ThirdDigit.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\ThirdDigit\obj\Debug\ThirdDigit.pdb

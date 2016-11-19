@@ -1,6 +1,0 @@
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\BitSwap\bin\Debug\BitSwap.exe.config
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\BitSwap\bin\Debug\BitSwap.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\BitSwap\bin\Debug\BitSwap.pdb
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\BitSwap\obj\Debug\BitSwap.csprojResolveAssemblyReference.cache
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\BitSwap\obj\Debug\BitSwap.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\03. Operators-and-Expressions\BitSwap\obj\Debug\BitSwap.pdb

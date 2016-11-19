@@ -1,6 +1,0 @@
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\QuadraticEquation\bin\Debug\QuadraticEquation.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\QuadraticEquation\obj\Debug\QuadraticEquation.csprojResolveAssemblyReference.cache
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\QuadraticEquation\obj\Debug\QuadraticEquation.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

@@ -1,5 +1,0 @@
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\SumOf5numbers\bin\Debug\SumOf5numbers.exe.config
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\SumOf5numbers\bin\Debug\SumOf5numbers.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\SumOf5numbers\bin\Debug\SumOf5numbers.pdb
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\SumOf5numbers\obj\Debug\SumOf5numbers.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\SumOf5numbers\obj\Debug\SumOf5numbers.pdb

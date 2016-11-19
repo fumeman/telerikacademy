@@ -1,5 +1,0 @@
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\PrintDate\bin\Debug\PrintDate.exe.config
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\PrintDate\bin\Debug\PrintDate.exe
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\PrintDate\bin\Debug\PrintDate.pdb
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\PrintDate\obj\Debug\PrintDate.exe
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\PrintDate\obj\Debug\PrintDate.pdb

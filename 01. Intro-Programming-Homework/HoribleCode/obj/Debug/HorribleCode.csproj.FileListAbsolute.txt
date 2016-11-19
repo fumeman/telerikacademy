@@ -1,5 +1,0 @@
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\HoribleCode\bin\Debug\HoribleCode.exe.config
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\HoribleCode\bin\Debug\HoribleCode.exe
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\HoribleCode\bin\Debug\HoribleCode.pdb
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\HoribleCode\obj\Debug\HoribleCode.exe
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\HoribleCode\obj\Debug\HoribleCode.pdb

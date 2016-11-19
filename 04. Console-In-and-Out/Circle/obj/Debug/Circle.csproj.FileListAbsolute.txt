@@ -1,6 +1,0 @@
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\Circle\bin\Debug\Circle.exe.config
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\Circle\bin\Debug\Circle.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\Circle\bin\Debug\Circle.pdb
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\Circle\obj\Debug\Circle.exe
-C:\Users\emich\Documents\Visual Studio 2015\Projects\04. Console-In-and-Out\Circle\obj\Debug\Circle.pdb

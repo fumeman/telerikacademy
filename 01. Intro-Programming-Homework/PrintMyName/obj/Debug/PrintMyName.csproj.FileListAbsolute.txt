@@ -1,5 +1,0 @@
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.pdb
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
-D:\Users\fumeman\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb
