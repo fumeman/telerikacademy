@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\SequenceInMatrix\bin\Debug\SequenceInMatrix.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\SequenceInMatrix\obj\Debug\SequenceInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\SequenceInMatrix\obj\Debug\SequenceInMatrix.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\SequenceInMatrix\obj\Debug\SequenceInMatrix.pdb

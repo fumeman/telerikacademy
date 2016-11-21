@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\FillTheMatrix\bin\Debug\FillTheMatrix.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\FillTheMatrix\bin\Debug\FillTheMatrix.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\FillTheMatrix\bin\Debug\FillTheMatrix.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\FillTheMatrix\obj\Debug\FillTheMatrix.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\FillTheMatrix\obj\Debug\FillTheMatrix.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\FillTheMatrix\obj\Debug\FillTheMatrix.pdb

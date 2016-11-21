@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\LargestAreaInMatrix\bin\Debug\LargestAreaInMatrix.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\LargestAreaInMatrix\bin\Debug\LargestAreaInMatrix.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\LargestAreaInMatrix\bin\Debug\LargestAreaInMatrix.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\LargestAreaInMatrix\obj\Debug\LargestAreaInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\LargestAreaInMatrix\obj\Debug\LargestAreaInMatrix.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\LargestAreaInMatrix\obj\Debug\LargestAreaInMatrix.pdb

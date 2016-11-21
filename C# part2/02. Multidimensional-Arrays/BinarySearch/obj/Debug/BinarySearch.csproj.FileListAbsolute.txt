@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\02. Multidimensional-Arrays\BinarySearch\obj\Debug\BinarySearch.pdb
