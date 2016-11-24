@@ -1,0 +1,5 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\HexadecimalToBinary\obj\Debug\HexadecimalToBinary.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\HexadecimalToBinary\obj\Debug\HexadecimalToBinary.pdb

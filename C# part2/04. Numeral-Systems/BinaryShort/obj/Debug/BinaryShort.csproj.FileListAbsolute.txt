@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryShort\bin\Debug\BinaryShort.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryShort\bin\Debug\BinaryShort.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryShort\bin\Debug\BinaryShort.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryShort\obj\Debug\BinaryShort.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryShort\obj\Debug\BinaryShort.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryShort\obj\Debug\BinaryShort.pdb

@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\GetLargestNumber\bin\Debug\GetLargestNumber.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\GetLargestNumber\bin\Debug\GetLargestNumber.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\GetLargestNumber\bin\Debug\GetLargestNumber.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\GetLargestNumber\obj\Debug\GetLargestNumber.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\GetLargestNumber\obj\Debug\GetLargestNumber.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\GetLargestNumber\obj\Debug\GetLargestNumber.pdb

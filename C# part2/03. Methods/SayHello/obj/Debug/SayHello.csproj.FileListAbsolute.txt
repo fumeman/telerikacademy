@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\SayHello\bin\Debug\SayHello.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\SayHello\bin\Debug\SayHello.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\SayHello\bin\Debug\SayHello.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\SayHello\obj\Debug\SayHello.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\SayHello\obj\Debug\SayHello.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\SayHello\obj\Debug\SayHello.pdb

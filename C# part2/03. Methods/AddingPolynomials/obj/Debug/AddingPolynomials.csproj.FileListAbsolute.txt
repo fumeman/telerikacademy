@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\AddingPolynomials\bin\Debug\AddingPolynomials.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\AddingPolynomials\bin\Debug\AddingPolynomials.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\AddingPolynomials\bin\Debug\AddingPolynomials.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\AddingPolynomials\obj\Debug\AddingPolynomials.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\AddingPolynomials\obj\Debug\AddingPolynomials.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\AddingPolynomials\obj\Debug\AddingPolynomials.pdb

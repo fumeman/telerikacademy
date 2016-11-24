@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\NFactorial\bin\Debug\NFactorial.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\NFactorial\bin\Debug\NFactorial.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\NFactorial\bin\Debug\NFactorial.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\NFactorial\obj\Debug\NFactorial.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\NFactorial\obj\Debug\NFactorial.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\NFactorial\obj\Debug\NFactorial.pdb

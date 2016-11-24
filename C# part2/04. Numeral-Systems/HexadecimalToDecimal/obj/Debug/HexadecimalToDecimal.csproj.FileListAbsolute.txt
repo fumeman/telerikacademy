@@ -1,0 +1,5 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.pdb

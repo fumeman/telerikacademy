@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\AppearanceCount\bin\Debug\AppearanceCount.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\AppearanceCount\bin\Debug\AppearanceCount.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\AppearanceCount\bin\Debug\AppearanceCount.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\AppearanceCount\obj\Debug\AppearanceCount.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\AppearanceCount\obj\Debug\AppearanceCount.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\AppearanceCount\obj\Debug\AppearanceCount.pdb

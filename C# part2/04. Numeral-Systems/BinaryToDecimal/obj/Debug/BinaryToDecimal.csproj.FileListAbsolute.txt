@@ -1,0 +1,5 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb

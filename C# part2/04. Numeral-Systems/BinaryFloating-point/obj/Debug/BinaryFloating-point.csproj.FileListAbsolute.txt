@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryFloating-point\bin\Debug\BinaryFloating-point.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryFloating-point\bin\Debug\BinaryFloating-point.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryFloating-point\bin\Debug\BinaryFloating-point.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryFloating-point\obj\Debug\BinaryFloating-point.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryFloating-point\obj\Debug\BinaryFloating-point.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryFloating-point\obj\Debug\BinaryFloating-point.pdb

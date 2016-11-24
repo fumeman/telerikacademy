@@ -1,0 +1,5 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\SolveTasks\bin\Debug\SolveTasks.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\SolveTasks\bin\Debug\SolveTasks.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\SolveTasks\bin\Debug\SolveTasks.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\SolveTasks\obj\Debug\SolveTasks.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\03. Methods\SolveTasks\obj\Debug\SolveTasks.pdb

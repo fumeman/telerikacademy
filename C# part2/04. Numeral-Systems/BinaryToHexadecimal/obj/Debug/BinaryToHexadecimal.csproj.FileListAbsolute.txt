@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\04. Numeral-Systems\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.pdb
