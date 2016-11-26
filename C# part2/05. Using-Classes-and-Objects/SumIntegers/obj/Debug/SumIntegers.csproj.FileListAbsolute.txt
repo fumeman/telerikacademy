@@ -1,0 +1,5 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\SumIntegers\bin\Debug\SumIntegers.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\SumIntegers\bin\Debug\SumIntegers.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\SumIntegers\bin\Debug\SumIntegers.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\SumIntegers\obj\Debug\SumIntegers.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\SumIntegers\obj\Debug\SumIntegers.pdb

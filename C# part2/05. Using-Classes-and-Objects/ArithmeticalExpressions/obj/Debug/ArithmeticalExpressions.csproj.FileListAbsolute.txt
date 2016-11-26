@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\ArithmeticalExpressions\bin\Debug\ArithmeticalExpressions.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\ArithmeticalExpressions\obj\Debug\ArithmeticalExpressions.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\ArithmeticalExpressions\bin\Debug\ArithmeticalExpressions.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\ArithmeticalExpressions\bin\Debug\ArithmeticalExpressions.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\ArithmeticalExpressions\obj\Debug\ArithmeticalExpressions.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\ArithmeticalExpressions\obj\Debug\ArithmeticalExpressions.pdb

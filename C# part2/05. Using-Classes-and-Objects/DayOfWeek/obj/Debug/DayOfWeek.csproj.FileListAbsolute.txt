@@ -1,0 +1,5 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\DayOfWeek\bin\Debug\DayOfWeek.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\DayOfWeek\bin\Debug\DayOfWeek.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\DayOfWeek\obj\Debug\DayOfWeek.pdb

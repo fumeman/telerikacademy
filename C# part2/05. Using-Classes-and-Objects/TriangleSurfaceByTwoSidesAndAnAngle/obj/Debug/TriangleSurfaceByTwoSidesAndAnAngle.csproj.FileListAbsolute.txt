@@ -1,0 +1,5 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\TriangleSurfaceByTwoSidesAndAnAngle\bin\Debug\TriangleSurfaceByTwoSidesAndAnAngle.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\TriangleSurfaceByTwoSidesAndAnAngle\bin\Debug\TriangleSurfaceByTwoSidesAndAnAngle.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\TriangleSurfaceByTwoSidesAndAnAngle\bin\Debug\TriangleSurfaceByTwoSidesAndAnAngle.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\TriangleSurfaceByTwoSidesAndAnAngle\obj\Debug\TriangleSurfaceByTwoSidesAndAnAngle.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\TriangleSurfaceByTwoSidesAndAnAngle\obj\Debug\TriangleSurfaceByTwoSidesAndAnAngle.pdb

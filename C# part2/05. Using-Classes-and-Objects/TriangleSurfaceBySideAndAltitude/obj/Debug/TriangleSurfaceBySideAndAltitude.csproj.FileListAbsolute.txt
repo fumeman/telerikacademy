@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\TriangleSurfaceBySideAndAltitude\bin\Debug\TriangleSurfaceBySideAndAltitude.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\TriangleSurfaceBySideAndAltitude\bin\Debug\TriangleSurfaceBySideAndAltitude.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\TriangleSurfaceBySideAndAltitude\bin\Debug\TriangleSurfaceBySideAndAltitude.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\TriangleSurfaceBySideAndAltitude\obj\Debug\TriangleSurfaceBySideAndAltitude.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\TriangleSurfaceBySideAndAltitude\obj\Debug\TriangleSurfaceBySideAndAltitude.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\05. Using-Classes-and-Objects\TriangleSurfaceBySideAndAltitude\obj\Debug\TriangleSurfaceBySideAndAltitude.pdb
