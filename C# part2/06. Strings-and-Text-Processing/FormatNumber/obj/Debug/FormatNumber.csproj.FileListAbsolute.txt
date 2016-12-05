@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\FormatNumber\bin\Debug\FormatNumber.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\FormatNumber\bin\Debug\FormatNumber.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\FormatNumber\bin\Debug\FormatNumber.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\FormatNumber\obj\Debug\FormatNumber.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\FormatNumber\obj\Debug\FormatNumber.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\FormatNumber\obj\Debug\FormatNumber.csprojResolveAssemblyReference.cache

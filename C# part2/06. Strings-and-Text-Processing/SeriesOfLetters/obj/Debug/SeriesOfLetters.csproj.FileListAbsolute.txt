@@ -1,0 +1,5 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\SeriesOfLetters\bin\Debug\SeriesOfLetters.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\SeriesOfLetters\obj\Debug\SeriesOfLetters.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\SeriesOfLetters\obj\Debug\SeriesOfLetters.pdb

@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\test_exam\SingingCAts\bin\Debug\SingingCAts.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\test_exam\SingingCAts\bin\Debug\SingingCAts.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\test_exam\SingingCAts\bin\Debug\SingingCAts.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\test_exam\SingingCAts\obj\Debug\SingingCAts.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\test_exam\SingingCAts\obj\Debug\SingingCAts.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\test_exam\SingingCAts\obj\Debug\SingingCAts.pdb

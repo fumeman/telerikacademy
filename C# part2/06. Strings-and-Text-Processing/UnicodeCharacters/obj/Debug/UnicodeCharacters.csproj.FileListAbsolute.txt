@@ -1,0 +1,5 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\UnicodeCharacters\bin\Debug\UnicodeCharacters.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\UnicodeCharacters\obj\Debug\UnicodeCharacters.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\UnicodeCharacters\obj\Debug\UnicodeCharacters.pdb

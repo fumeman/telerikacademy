@@ -1,0 +1,5 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\CorrectBrackets\bin\Debug\CorrectBrackets.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\CorrectBrackets\bin\Debug\CorrectBrackets.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\CorrectBrackets\bin\Debug\CorrectBrackets.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\CorrectBrackets\obj\Debug\CorrectBrackets.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\CorrectBrackets\obj\Debug\CorrectBrackets.pdb

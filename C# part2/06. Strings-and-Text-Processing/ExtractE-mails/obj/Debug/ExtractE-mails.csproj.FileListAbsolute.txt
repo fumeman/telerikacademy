@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\ExtractE-mails\bin\Debug\ExtractE-mails.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\ExtractE-mails\bin\Debug\ExtractE-mails.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\ExtractE-mails\bin\Debug\ExtractE-mails.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\ExtractE-mails\obj\Debug\ExtractE-mails.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\ExtractE-mails\obj\Debug\ExtractE-mails.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\ExtractE-mails\obj\Debug\ExtractE-mails.pdb

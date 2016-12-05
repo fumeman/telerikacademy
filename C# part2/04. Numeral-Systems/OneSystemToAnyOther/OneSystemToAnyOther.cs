@@ -13,6 +13,7 @@ class OneSystemToAnyOther
             if (ch > 0x40)
             {
                 result = result * basis + ch - 0x37;
+                //result = result * basis + ch - 0x41;
             }
             else
             {
@@ -33,6 +34,8 @@ class OneSystemToAnyOther
             rest = (byte)(num % basis);
             num = num / basis;
 
+            //rest += 0x61;
+
             rest += 0x30;
             if (rest > 0x39)
             {
@@ -47,8 +50,12 @@ class OneSystemToAnyOther
 
     static string SomeToOther(string num, byte baseFrom, byte baseTo)
     {
-        BigInteger bigNum = SomeToDec(num, baseFrom);
-        string result = DecToSome(bigNum, baseTo);
+        BigInteger bigNum = SomeToDec(num.ToUpper(), baseFrom);
+        string result = bigNum.ToString();
+        if (baseTo != 10)
+        {
+            result = DecToSome(bigNum, baseTo);
+        }
 
         return result;
     }

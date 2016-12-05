@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\test_exam\DecodeAndDecrypt\bin\Debug\DecodeAndDecrypt.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\test_exam\DecodeAndDecrypt\bin\Debug\DecodeAndDecrypt.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\test_exam\DecodeAndDecrypt\bin\Debug\DecodeAndDecrypt.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\test_exam\DecodeAndDecrypt\obj\Debug\DecodeAndDecrypt.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\test_exam\DecodeAndDecrypt\obj\Debug\DecodeAndDecrypt.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\test_exam\DecodeAndDecrypt\obj\Debug\DecodeAndDecrypt.pdb

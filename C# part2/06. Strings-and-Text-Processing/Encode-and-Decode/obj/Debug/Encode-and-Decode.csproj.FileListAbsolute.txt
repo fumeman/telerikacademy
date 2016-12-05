@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\Encode-and-Decode\bin\Debug\Encode-and-Decode.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\Encode-and-Decode\obj\Debug\Encode-and-Decode.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\Encode-and-Decode\bin\Debug\Encode-and-Decode.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\Encode-and-Decode\bin\Debug\Encode-and-Decode.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\Encode-and-Decode\obj\Debug\Encode-and-Decode.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\Encode-and-Decode\obj\Debug\Encode-and-Decode.pdb

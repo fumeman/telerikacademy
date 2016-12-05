@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\test_exam\FeaturingWithGrisko\bin\Debug\FeaturingWithGrisko.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\test_exam\FeaturingWithGrisko\bin\Debug\FeaturingWithGrisko.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\test_exam\FeaturingWithGrisko\bin\Debug\FeaturingWithGrisko.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\test_exam\FeaturingWithGrisko\obj\Debug\FeaturingWithGrisko.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\test_exam\FeaturingWithGrisko\obj\Debug\FeaturingWithGrisko.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\test_exam\FeaturingWithGrisko\obj\Debug\FeaturingWithGrisko.pdb

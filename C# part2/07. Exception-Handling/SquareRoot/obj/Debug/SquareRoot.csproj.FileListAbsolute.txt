@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\07. Exception-Handling\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\07. Exception-Handling\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\07. Exception-Handling\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\07. Exception-Handling\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\07. Exception-Handling\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\07. Exception-Handling\SquareRoot\obj\Debug\SquareRoot.pdb

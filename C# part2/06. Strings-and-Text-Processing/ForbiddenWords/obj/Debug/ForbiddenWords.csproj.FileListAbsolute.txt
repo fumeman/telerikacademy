@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\ForbiddenWords\bin\Debug\ForbiddenWords.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\ForbiddenWords\bin\Debug\ForbiddenWords.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\ForbiddenWords\bin\Debug\ForbiddenWords.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\ForbiddenWords\obj\Debug\ForbiddenWords.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\ForbiddenWords\obj\Debug\ForbiddenWords.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\C# part2\06. Strings-and-Text-Processing\ForbiddenWords\obj\Debug\ForbiddenWords.pdb
