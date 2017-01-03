@@ -1,0 +1,6 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\OOP\Homework.DefiningClasses-Part1\bin\Debug\Homework.DefiningClasses-Part1.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\OOP\Homework.DefiningClasses-Part1\bin\Debug\Homework.DefiningClasses-Part1.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\OOP\Homework.DefiningClasses-Part1\bin\Debug\Homework.DefiningClasses-Part1.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\OOP\Homework.DefiningClasses-Part1\obj\Debug\Homework.DefiningClasses-Part1.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\OOP\Homework.DefiningClasses-Part1\obj\Debug\Homework.DefiningClasses-Part1.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\OOP\Homework.DefiningClasses-Part1\obj\Debug\Homework.DefiningClasses-Part1.pdb
