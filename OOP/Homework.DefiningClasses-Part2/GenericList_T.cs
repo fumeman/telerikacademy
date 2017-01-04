@@ -3,6 +3,7 @@
     using System;
 
     public class GenericList<T>
+        where T : IComparable<T>
     {
         private const int InitialCapacity = 4;
 
@@ -22,6 +23,57 @@
             {
                 return this.elements.Length;
             }
+        }
+
+        public T this[int index]
+        {
+            get
+            {
+                return this.elements[index];
+            }
+
+            set
+            {
+                this.elements[index] = value;
+            }
+        }
+
+        public T Min()
+        {
+            T tmp;
+            tmp = this.elements[0];
+            int i = 0, minValue = 0;
+            while (i < this.Count)
+            {
+                if (tmp.CompareTo(this.elements[i]) == 1)
+                {
+                    minValue = i;
+                    tmp = this.elements[i];
+                }
+
+                i++;
+            }
+
+            return this.elements[minValue];
+        }
+
+        public T Max()
+        {
+            T tmp;
+            tmp = this.elements[0];
+            int i = 0, maxValue = 0;
+            while (i < this.Count)
+            {
+                if (tmp.CompareTo(this.elements[i]) == -1)
+                {
+                    maxValue = i;
+                    tmp = this.elements[i];
+                }
+
+                i++;
+            }
+
+            return this.elements[maxValue];
         }
 
         public void Add(T item)

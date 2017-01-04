@@ -1,7 +1,5 @@
 ﻿namespace Homework.DefiningClasses_Part2
 {
-    using System;
-
     public struct Point3D
     {
         private static readonly Point3D O = new Point3D(0, 0, 0);

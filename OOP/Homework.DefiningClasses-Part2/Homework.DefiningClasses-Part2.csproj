@@ -43,8 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AttributeVersion.cs" />
     <Compile Include="DistanceBetweenTwoPoints.cs" />
     <Compile Include="GenericList_T.cs" />
+    <Compile Include="Matrix_T.cs" />
     <Compile Include="Path.cs" />
     <Compile Include="PathStorage.cs" />
     <Compile Include="Point3D.cs" />
