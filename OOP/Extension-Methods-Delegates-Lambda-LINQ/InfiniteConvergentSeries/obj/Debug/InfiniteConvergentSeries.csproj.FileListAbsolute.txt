@@ -1,0 +1,8 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\OOP\Extension-Methods-Delegates-Lambda-LINQ\InfiniteConvergentSeries\bin\Debug\InfiniteConvergentSeries.exe.config
+C:\Users\emich\Documents\Visual Studio 2015\Projects\OOP\Extension-Methods-Delegates-Lambda-LINQ\InfiniteConvergentSeries\bin\Debug\InfiniteConvergentSeries.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\OOP\Extension-Methods-Delegates-Lambda-LINQ\InfiniteConvergentSeries\bin\Debug\InfiniteConvergentSeries.pdb
+C:\Users\emich\Documents\Visual Studio 2015\Projects\OOP\Extension-Methods-Delegates-Lambda-LINQ\InfiniteConvergentSeries\bin\Debug\MathNet.Numerics.dll
+C:\Users\emich\Documents\Visual Studio 2015\Projects\OOP\Extension-Methods-Delegates-Lambda-LINQ\InfiniteConvergentSeries\bin\Debug\MathNet.Numerics.xml
+C:\Users\emich\Documents\Visual Studio 2015\Projects\OOP\Extension-Methods-Delegates-Lambda-LINQ\InfiniteConvergentSeries\obj\Debug\InfiniteConvergentSeries.csprojResolveAssemblyReference.cache
+C:\Users\emich\Documents\Visual Studio 2015\Projects\OOP\Extension-Methods-Delegates-Lambda-LINQ\InfiniteConvergentSeries\obj\Debug\InfiniteConvergentSeries.exe
+C:\Users\emich\Documents\Visual Studio 2015\Projects\OOP\Extension-Methods-Delegates-Lambda-LINQ\InfiniteConvergentSeries\obj\Debug\InfiniteConvergentSeries.pdb

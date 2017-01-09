@@ -1,0 +1,1 @@
+C:\Users\emich\Documents\Visual Studio 2015\Projects\OOP\Extension-Methods-Delegates-Lambda-LINQ\Event\bin\Debug\Event.exe.config

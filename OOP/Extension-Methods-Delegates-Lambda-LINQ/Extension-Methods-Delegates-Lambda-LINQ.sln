@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension-Methods-Delegates-Lambda-LINQ", "Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ.csproj", "{88863252-B84A-4FB8-BAAC-ACBA94B3A676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{D14E6FD6-EB41-4C77-95E9-B8EEFDE8ABB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleBy7and3", "DivisibleBy7and3\DivisibleBy7and3.csproj", "{52875F91-938C-4099-BF46-34E774D725B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Event\Events.csproj", "{BFC9A717-5342-4532-BFBE-419F9B138FBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students", "Students\Students.csproj", "{22C01D7A-DD60-4942-B1DF-F159B832FB79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfiniteConvergentSeries", "InfiniteConvergentSeries\InfiniteConvergentSeries.csproj", "{98978BE2-004C-44F8-8A9A-24CCA9485253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88863252-B84A-4FB8-BAAC-ACBA94B3A676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88863252-B84A-4FB8-BAAC-ACBA94B3A676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88863252-B84A-4FB8-BAAC-ACBA94B3A676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88863252-B84A-4FB8-BAAC-ACBA94B3A676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14E6FD6-EB41-4C77-95E9-B8EEFDE8ABB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14E6FD6-EB41-4C77-95E9-B8EEFDE8ABB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14E6FD6-EB41-4C77-95E9-B8EEFDE8ABB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14E6FD6-EB41-4C77-95E9-B8EEFDE8ABB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52875F91-938C-4099-BF46-34E774D725B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52875F91-938C-4099-BF46-34E774D725B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52875F91-938C-4099-BF46-34E774D725B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52875F91-938C-4099-BF46-34E774D725B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC9A717-5342-4532-BFBE-419F9B138FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC9A717-5342-4532-BFBE-419F9B138FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC9A717-5342-4532-BFBE-419F9B138FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC9A717-5342-4532-BFBE-419F9B138FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C01D7A-DD60-4942-B1DF-F159B832FB79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C01D7A-DD60-4942-B1DF-F159B832FB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C01D7A-DD60-4942-B1DF-F159B832FB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C01D7A-DD60-4942-B1DF-F159B832FB79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98978BE2-004C-44F8-8A9A-24CCA9485253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98978BE2-004C-44F8-8A9A-24CCA9485253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98978BE2-004C-44F8-8A9A-24CCA9485253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98978BE2-004C-44F8-8A9A-24CCA9485253}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
